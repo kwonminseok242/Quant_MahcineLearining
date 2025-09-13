@@ -1,0 +1,4 @@
+# python 가상환경 폴더 무시
+qml/
+data_ml.csv
+data_ml.RData

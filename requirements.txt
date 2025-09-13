@@ -1,0 +1,27 @@
+pandas
+# urllib.request PYPI설치하는 패키지가 아니라, 파이썬 표준 라이브러리이다.
+statsmodels
+numpy >=1.23.5 # Numpyu 1.21.x는 Python 3.11 을 지원하지 않는다. 3.11에서 설치가 가능한 Numpy는 1.23.5 이상부터이다.
+matplotlib
+seaborn
+# IPython.display 표준 라이브러리 / 패키지의 서브모듈
+scikit-learn
+xgboost
+tensorflow
+plot-keras-history
+xbart
+skopt
+cvxopt
+datetime
+itertools
+scipy
+random
+collections
+lime
+shap
+dalex
+causalimpact
+cdt
+networks
+icpy
+pca
